@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Munirah Almutlaq!
 
-<!--
-**MuniraAlmutlaq/MuniraAlmutlaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Enthusiast | 💻 Developer | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here you’ll find projects I’ve built, contributions I’ve made, and topics I’m passionate about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Graduated **Artificial Intelligence**
+- 💡 Passionate about building **AI-driven applications**
+
+---
+
+## 📌 My Projects
+Please go to my **Repository** to view some projects that I worked on during my studies.
+
+---
+
+## 🛠️ Notable Contributions
+These are projects I’ve contributed to and learned a lot from:
+- [job-interview-practice-system](https://github.com/WatinAljohani/Job_Interview_Practice_System_GPT3.5_LLaMA)
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/munirah-almutlaq-564a19311/)
+
+---
+⭐️ From [MuniraAlmutlaq](https://github.com/MuniraAlmutlaq)

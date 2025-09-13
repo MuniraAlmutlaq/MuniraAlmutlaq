@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here you’ll find projects I’ve built, contribu
 ---
 
 ## 📌 My Projects
-Please go to my **Repository** to view some projects that I worked on during my studies.
+Please go to my [Repository](https://github.com/MuniraAlmutlaq?tab=repositories) to view some projects that I worked on during my studies.
 
 ---
 
